@@ -1,0 +1,31 @@
+_repo: Le-proc-s-des-Templiers--13-Tome-II._22920
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Michelet, Jules
+    alias: Michelet, J.
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '8214'
+    url: http://www.gutenberg.org/2009/agents/8214
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Michelet
+    - http://en.wikipedia.org/wiki/Jules_Michelet
+description: ''
+gutenberg_issued: '2007-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22920'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Templars -- France'
+- !lcc 'CR'
+- !lcsh 'Inquisition -- France'
+title: Le procès des Templiers, Tome II.
+url: http://www.gutenberg.org/ebooks/22920
